@@ -1,0 +1,5 @@
+{
+  "name": "eDU Brain Education",
+  "description": "Auto Fee Reminder System for coaching institutes. Tracks student dues and sends automated reminders.",
+  "requestFramePermissions": []
+}
